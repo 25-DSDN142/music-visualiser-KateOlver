@@ -3,7 +3,7 @@
 function draw_one_frame(words, vocal, drum, bass, other, counter) {
 
 colorMode(HSB, 100);
-background(255);
+background(0,0,0);
 rectMode(CENTER);
 strokeWeight(9);
 stroke(drum,80,80);
